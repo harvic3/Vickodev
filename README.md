@@ -3,7 +3,7 @@
 
 ### The projects I currently support are:
 
-1. <a href="https://github.com/harvic3/nodetskeleton" target="_blank" >NodeTSkeleton template project</a>
+1. <a href="https://github.com/medevorg/nodetskeleton" target="_blank" >NodeTSkeleton template project</a>
 Template base project for NodeJs built on clean architecture to create APIs in an agile and fast way with different tools to design projects based on microservices or monoliths.
 
 1. <a href="https://www.npmjs.com/package/result-tsk" target="_blank" >Result TSK</a>
